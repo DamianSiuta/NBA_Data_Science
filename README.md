@@ -49,7 +49,7 @@ The dataset contains NBA regular-season games with detailed stats for home and a
 
 ## Author
 Damian Siuta  
-[GitHub](https://github.com/DamianSiuta) | [LinkedIn]((https://www.linkedin.com/in/damian-siuta-5128bb182/))
+[GitHub](https://github.com/DamianSiuta) | [LinkedIn](https://www.linkedin.com/in/damian-siuta-5128bb182/)
 
 ---
 
